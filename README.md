@@ -1,0 +1,1 @@
+# shorten-url-for-logging-example-code
